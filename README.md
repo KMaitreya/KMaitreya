@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KMaitreya&theme=black-ice&hide_border=true&stroke=151515)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KMaitreya&theme=transparent&hide_border=true&stroke=151515)](https://git.io/streak-stats)
 
 [![Maitreya's Github Stats](https://github-readme-stats.vercel.app/api?username=KMaitreya&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
