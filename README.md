@@ -20,7 +20,5 @@ Here are some ideas to get you started:
 [![Maitreya's Github Stats](https://github-readme-stats.vercel.app/api?username=KMaitreya&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KMaitreya&layout=compact&langs_count=10&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
- 
- [![Maitreya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KMaitreya&custom_title=WeeklyCoding&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=KMaitreya&color=202020&label=Profile+Views)
