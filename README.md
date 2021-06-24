@@ -1,4 +1,4 @@
-### I am Maitreya Kanitkar.
+# I am Maitreya Kanitkar.
 Computer Vision | Machine Learning.
 
 
