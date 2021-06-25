@@ -1,6 +1,4 @@
 # I am Maitreya Kanitkar.
-### Computer Vision | Machine Learning.
-
 
 I am a third year Information Technology undergrad.
 <!--
