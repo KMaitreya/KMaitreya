@@ -1,6 +1,6 @@
 # I am Maitreya Kanitkar.
 
-I am a third year Information Technology undergrad.
+I am a Information Technology undergrad.
 <!--
 **KMaitreya/KMaitreya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
