@@ -1,6 +1,6 @@
 # I am Maitreya Kanitkar.
 
-I am a Information Technology undergrad.
+Hello, I'm an IT undergrad at PVG's CoET, Pune. I will be graduating in 2022. I am a computer vision and machine learning enthusiast and I aspire to sharpen my skills in the that domain. Other than that I'm interested in playing video games, outdoor games, chess, table tennis and I'm also a history enthusiast.
 <!--
 **KMaitreya/KMaitreya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
