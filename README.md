@@ -1,4 +1,4 @@
-# I am Maitreya Kanitkar.
+# I'm Maitreya Kanitkar.
 
 - Hello, I'm an IT undergrad at PVG's CoET, Pune.
 - Graduating in 2022. 
