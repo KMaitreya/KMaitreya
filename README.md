@@ -1,10 +1,10 @@
 # I am Maitreya Kanitkar.
 
--Hello, I'm an IT undergrad at PVG's CoET, Pune.
--Graduating in 2022. 
--Computer vision and machine learning enthusiast. 
--Interested in playing video games, outdoor games, chess, table tennis and also a history enthusiast.
--Website->https://maitreyakanitkar.netlify.app/.
+- Hello, I'm an IT undergrad at PVG's CoET, Pune.
+- Graduating in 2022. 
+- Computer vision and machine learning enthusiast. 
+- Interested in playing video games, outdoor games, chess, table tennis and also a history enthusiast.
+- Website->https://maitreyakanitkar.netlify.app/.
 
 **KMaitreya/KMaitreya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
