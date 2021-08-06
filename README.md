@@ -4,7 +4,8 @@
 - Graduating in 2022. 
 - Computer vision and machine learning enthusiast. 
 - Interested in playing video games, outdoor games, chess, table tennis and also a history enthusiast.
-- Website->https://maitreyakanitkar.netlify.app/.
+- Website->https://maitreyakanitkar.netlify.app/
+- Kaggle->https://www.kaggle.com/kmaitreya
 - Linkedin->https://www.linkedin.com/in/kmaitreya/
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KMaitreya&theme=black-ice&hide_border=true&stroke=151515)](https://git.io/streak-stats)
