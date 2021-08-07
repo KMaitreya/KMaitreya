@@ -1,6 +1,6 @@
 # Hello, I'm Maitreya Kanitkar.
 
-- Final year IT undergrad at PVG's CoET, Pune.
+- Final year IT undergrad at PVG's CoET(SPPU), Pune.
 - Graduating in 2022. 
 - Computer vision and machine learning enthusiast. 
 - Interested in playing video games, outdoor games, chess, table tennis.
