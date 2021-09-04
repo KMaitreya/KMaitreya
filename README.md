@@ -2,7 +2,8 @@
 
 - Final year IT undergrad at PVG's CoET(SPPU), Pune.
 - Graduating in 2022. 
-- Computer vision and machine learning enthusiast. 
+- Computer vision and machine learning enthusiast.
+- Head of Team Web & Tech at the Information Technology Students' Association(ITSA) PVGCOET.
 - Interested in playing video games, outdoor games, chess, table tennis.
 - History enthusiast.
 - Website->https://maitreyakanitkar.netlify.app/
