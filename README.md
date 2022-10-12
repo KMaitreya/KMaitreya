@@ -1,9 +1,9 @@
 # Hello, I'm Maitreya Kanitkar.
 
-- Final year IT undergrad at PVG's CoET(SPPU), Pune.
-- Graduating in 2022. 
+- CS grad student at Indiana University, Bloomington.
+- Graduating in 2024. 
 - Computer vision and machine learning enthusiast.
-- Head of Team Web & Tech at the Information Technology Students' Association(ITSA) PVGCOET.
+- Former Head of Team Web & Tech at the Information Technology Students' Association(ITSA) at PVGCOET, Pune, India.
 - Interested in playing video games, outdoor games, chess, table tennis.
 - History enthusiast.
 - Website->https://maitreyakanitkar.netlify.app/
