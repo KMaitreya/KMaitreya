@@ -1,12 +1,14 @@
 # Hello, I'm Maitreya Kanitkar.
 
-- CS grad student at Indiana University, Bloomington.
-- Graduating in 2024. 
-- Computer vision and machine learning enthusiast.
-- Former Head of Team Web & Tech at the Information Technology Students' Association(ITSA) at PVGCOET, Pune, India.
-- Interested in playing video games, outdoor games, chess, table tennis.
-- History enthusiast.
-- Website->https://maitreyakanitkar.netlify.app/
+- Generative AI | Machine Learning | Web development.
+- IUB 24'.
+- SPPU 22'.
+- Leetcode 400+.
+- Ex-Software Engineer Intern @Stellar.
+- Ex-research Assistant @Indiana University.
+- Ex-Head of Team Web & Tech @Information Technology Students' Association(ITSA) at PVGCOET.
+- Interested in playing video games, outdoor games, chess, table tennis, history enthusiast.
+- Leetcode-> https://leetcode.com/u/KMaitreya/
 - Kaggle->https://www.kaggle.com/kmaitreya
 - Linkedin->https://www.linkedin.com/in/kmaitreya
 
