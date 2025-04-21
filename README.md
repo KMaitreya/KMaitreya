@@ -3,7 +3,7 @@
 - Generative AI | Machine Learning | Web development.
 - IUB 24'.
 - SPPU 22'.
-- Leetcode 400+.
+- Leetcode 500+.
 - Ex-Software Engineer Intern @Stellar.
 - Ex-research Assistant @Indiana University.
 - Ex-Head of Team Web & Tech @Information Technology Students' Association(ITSA) at PVGCOET.
